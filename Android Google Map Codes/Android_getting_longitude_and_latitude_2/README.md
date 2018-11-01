@@ -1,0 +1,3 @@
+# Android getting longitude and latitude of current position
+...
+![android_getting_current_longitude_and_latitude](https://user-images.githubusercontent.com/16924166/30772733-47766c9e-a07b-11e7-8cc8-198015aecfd4.png)
